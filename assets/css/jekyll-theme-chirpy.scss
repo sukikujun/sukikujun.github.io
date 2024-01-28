@@ -8,3 +8,34 @@
 code pre {
     white-space: pre-wrap;
 }
+
+.hosoi-waku {
+    border: 1px solid;
+}
+// article：边框，设置内边距
+.waku {
+    border: 2px solid;
+}
+.hosoi-waku, .waku {
+    padding: 5px;
+}
+// article > p：清除外边距
+.waku p {
+    margin: 0 !important;
+}
+// article > conten > div：设置缩进
+.waku content div, article content div {
+    text-indent: 2rem;
+}
+.waku footer {
+    height: 100% !important;
+}
+.waku-two {
+    border: 2px solid !important;
+}
+.margin-go {
+    margin: 5px !important;
+}
+.padding-jyu {
+    padding: 10px !important;
+}
