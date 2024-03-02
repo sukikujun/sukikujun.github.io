@@ -1,28 +1,18 @@
----
-layout: post
-title: 绿宝书——Unit03
-date: 2023-07-03 18:30:00 +0900
-category: 绿宝书 
-tag: 
-  - 绿宝书
----
 
-# {{ page.title }}
-
-## アイデア・アイディア③
+アイデア・アイディア③
 
 <span>
-  <ruby>アイデア・アイディア<rt>idea</rt></ruby>
+  <ruby>アイデア・アイディアidea</ruby>
 </span>&nbsp;③ (名) 想法，主意
 <div>
   <font> 例</font>：<ruby>いいアイデアが<rt></rt>浮<rt>う</rt>かんだ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／有了好主意。
   <br>
-  <font> 近</font>：<ruby>思<rt>おも</rt>いつき</ruby>、<ruby>案<rt>あん</rt></ruby>、<ruby>観<rt>かん</rt>念<rt>ねん</rt></ruby>、<ruby>理<rt>り</rt>念<rt>ねん</rt></ruby>
+  <font> 近</font>：<ruby>思<rt>おも</rt>いつき、<rt></rt>案<rt>あん</rt>、<rt></rt>観<rt>かん</rt>念<rt>ねん</rt>、<rt></rt>理<rt>り</rt>念<rt>ねん</rt></ruby>
 </div>
 
-- - -
+----
 
-## あくび⓪
+あくび⓪
 
 <span>
   <ruby>欠伸<rt>あくび</rt></ruby>
@@ -31,9 +21,9 @@ tag:
   <font> 例</font>：<ruby>あの<rt></rt>先<rt>せん</rt>生<rt>せい</rt>の<rt></rt>講<rt>こう</rt>義<rt>ぎ</rt>はつまらなくて<rt></rt>学<rt>がく</rt>生<rt>せい</rt>はいつも<rt></rt>欠伸<rt>あくび</rt>をしている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／那位老师的课无聊，所以学生总是打哈欠。
 </div>
 
-- - -
+----
 
-## あたる⓪
+あたる⓪
 
 <span>
   <ruby>当<rt>あ</rt>たる</ruby>
@@ -44,22 +34,22 @@ tag:
   <font> 惯</font>：<ruby>当<rt>あ</rt>たらずといえども<rt></rt>遠<rt>とお</rt>からず/虽不中，不远矣</ruby>
 </div>
 
-- - -
+----
 
-## アパート②
+アパート②
 
 <span>
-  <ruby>アパート<rt>apartment house</rt></ruby>
+  <ruby>アパートapartment house</ruby>
 </span>&nbsp;② (名) 公寓
 <div>
   <font> 例</font>：<ruby>今<rt>いま</rt>は<rt></rt>新<rt>しん</rt>宿<rt>じゅく</rt>近<rt>ちか</rt>くのアパートに<rt></rt>住<rt>す</rt>んでいる。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／现在住在新宿附近的公寓。
   <br>
-  <font> 近</font>：<ruby>集<rt>しゅう</rt>合<rt>ごう</rt>住<rt>じゅう</rt>宅<rt>たく</rt></ruby>、<ruby>共<rt>きょう</rt>同<rt>どう</rt>住<rt>じゅう</rt>宅<rt>たく</rt></ruby>、<ruby>アパルトマン</ruby>
+  <font> 近</font>：<ruby>集<rt>しゅう</rt>合<rt>ごう</rt>住<rt>じゅう</rt>宅<rt>たく</rt>、<rt></rt>共<rt>きょう</rt>同<rt>どう</rt>住<rt>じゅう</rt>宅<rt>たく</rt>、アパルトマン</ruby>
 </div>
 
-- - -
+----
 
-## あまり③
+あまり③
 
 <span>
   <ruby>余<rt>あま</rt>り</ruby>
@@ -67,12 +57,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>あまりの<rt></rt>暑<rt>あつ</rt>さに<rt></rt>皆<rt>みんな</rt>水<rt>みず</rt>ばかり<rt></rt>飲<rt>の</rt>んでいた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／因为太热，大家都一个劲儿地喝水。
   <br>
-  <font> 近</font>：<ruby>残<rt>のこ</rt>り</ruby>、<ruby>あんまり</ruby>、<ruby>それほど</ruby>
+  <font> 近</font>：<ruby>残<rt>のこ</rt>り、あんまり、それほど</ruby>
 </div>
 
-- - -
+----
 
-## あれこれ②
+あれこれ②
 
 <span>
   <ruby>あれこれ</ruby>
@@ -80,12 +70,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>あれこれ<rt></rt>迷<rt>まよ</rt>ったあげく<rt></rt>転<rt>てん</rt>職<rt>しょく</rt>することにした。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／犹豫来犹豫去，最后决定改行。
   <br>
-  <font> 近</font>：<ruby>いろいろ</ruby>、<ruby>あれやこれや</ruby>、<ruby>さまざま</ruby>
+  <font> 近</font>：<ruby>いろいろ、あれやこれや、さまざま</ruby>
 </div>
 
-- - -
+----
 
-## アレルギー②
+アレルギー②
 
 <span>
   <ruby>アレルギー</ruby>
@@ -94,9 +84,9 @@ tag:
   <font> 例</font>：<ruby>人<rt>ひと</rt>によっては、<rt></rt>食<rt>た</rt>べるとアレルギー<rt></rt>症<rt>しょう</rt>状<rt>じょう</rt>を<rt></rt>起<rt>お</rt>こす<rt></rt>可<rt>か</rt>能<rt>のう</rt>性<rt>せい</rt>のある<rt></rt>食<rt>しょく</rt>品<rt>ひん</rt>がある。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／有些食品部分人吃了之后会出现过敏症状。
 </div>
 
-- - -
+----
 
-## いき①
+いき①
 
 <span>
   <ruby>息<rt>いき</rt></ruby>
@@ -104,12 +94,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>あまり<rt></rt>急<rt>いそ</rt>いだので<rt></rt>息<rt>いき</rt>が<rt></rt>切<rt>き</rt>れた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／因为赶得太急而气喘吁吁。
   <br>
-  <font> 惯</font>：<ruby>息<rt>いき</rt>が<rt></rt>弾<rt>はず</rt>む/上期不接下气</ruby>、<ruby>息<rt>いき</rt>が<rt></rt>詰<rt>つ</rt>まる/喘不过气来</ruby>
+  <font> 惯</font>：<ruby>息<rt>いき</rt>が<rt></rt>弾<rt>はず</rt>む/上期不接下气、<rt></rt>息<rt>いき</rt>が<rt></rt>詰<rt>つ</rt>まる/喘不过气来</ruby>
 </div>
 
-- - -
+----
 
-## いちどに③
+いちどに③
 
 <span>
   <ruby>一<rt>いち</rt>度<rt>ど</rt>に</ruby>
@@ -117,12 +107,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>みんな<rt></rt>一<rt>いち</rt>度<rt>ど</rt>に<rt></rt>入<rt>はい</rt>ろうとしては<rt></rt>駄<rt>だ</rt>目<rt>ね</rt>だ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／大家要同时进去是不可以的。
   <br>
-  <font> 近</font>：<ruby>同<rt>どう</rt>時<rt>じ</rt>に</ruby>、<ruby>一緒<rt>いっしょ</rt>に</ruby>
+  <font> 近</font>：<ruby>同<rt>どう</rt>時<rt>じ</rt>に、<rt></rt>一緒<rt>いっしょ</rt>に</ruby>
 </div>
 
-- - -
+----
 
-## いっち⓪
+いっち⓪
 
 <span>
   <ruby>一致<rt>いっち</rt></ruby>
@@ -135,9 +125,9 @@ tag:
   <font> 惯</font>：<ruby>言<rt>げん</rt>行<rt>こう</rt>一致<rt>いっち</rt>/言行一致</ruby>
 </div>
 
-- - -
+----
 
-## いのち①
+いのち①
 
 <span>
   <ruby>命<rt>いのち</rt></ruby>
@@ -145,12 +135,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>命<rt>いのち</rt>のある<rt></rt>限<rt>かぎ</rt>りご<rt></rt>恩<rt>おん</rt>は<rt></rt>忘<rt>わす</rt>れません。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／有生之年不会忘记您的恩情。
   <br>
-  <font> 近</font>：<ruby>生<rt>せい</rt>命<rt>めい</rt></ruby>、<ruby>寿<rt>じゅ</rt>命<rt>みょう</rt></ruby>
+  <font> 近</font>：<ruby>生<rt>せい</rt>命<rt>めい</rt>、<rt></rt>寿<rt>じゅ</rt>命<rt>みょう</rt></ruby>
 </div>
 
-- - -
+----
 
-## いんたい⓪
+いんたい⓪
 
 <span>
   <ruby>引<rt>いん</rt>退<rt>たい</rt></ruby>
@@ -161,9 +151,9 @@ tag:
   <font> 近</font>：<ruby>辞<rt>や</rt>める</ruby>
 </div>
 
-- - -
+----
 
-## うけたまわる⑤
+うけたまわる⑤
 
 <span>
   <ruby>承<rt>うけたまわ</rt>る</ruby>
@@ -171,15 +161,15 @@ tag:
 <div>
   <font> 例</font>：<ruby>披<rt>ひ</rt>露<rt>ろう</rt>宴<rt>えん</rt>の<rt></rt>相<rt>そう</rt>談<rt>だん</rt>は<rt></rt>承<rt>うけたまわ</rt>ります。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我们承接婚宴承办工作。
   <br>
-  <font> 近</font>：<ruby>聞<rt>き</rt>く</ruby>、<ruby>承<rt>しょう</rt>知<rt>ち</rt>する</ruby>
+  <font> 近</font>：<ruby>聞<rt>き</rt>く、<rt></rt>承<rt>しょう</rt>知<rt>ち</rt>する</ruby>
 </div>
 
-- - -
+----
 
-## エディター①
+エディター①
 
 <span>
-  <ruby>エディター<rt>editor</rt></ruby>
+  <ruby>エディターeditor</ruby>
 </span>&nbsp;① (名) 编辑，编者
 <div>
   <font> 例</font>：<ruby>そのことに<rt></rt>関<rt>かん</rt>しては、あるエディターが2<rt></rt>年<rt>ねん</rt>前<rt>まえ</rt>にも<rt></rt>同<rt>おな</rt>じことを<rt></rt>書<rt>か</rt>いた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／有关那件事某编者在2年前也写过相同得评论。
@@ -187,9 +177,9 @@ tag:
   <font> 近</font>：<ruby>編<rt>へん</rt>集<rt>しゅう</rt>者<rt>しゃ</rt></ruby>
 </div>
 
-- - -
+----
 
-## えんじょ①
+えんじょ①
 
 <span>
   <ruby>援<rt>えん</rt>助<rt>じょ</rt></ruby>
@@ -197,14 +187,14 @@ tag:
 <div>
   <font> 例</font>：<ruby>彼<rt>かれ</rt>が<rt></rt>立<rt>りっ</rt>候<rt>こう</rt>補<rt>ほ</rt>するなら<rt></rt>援<rt>えん</rt>助<rt>じょ</rt>しようということになった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／如果他参选，我们就支持他。
   <br>
-  <font> 近</font>：<ruby>助<rt>たす</rt>ける</ruby>、<ruby>支<rt>し</rt>援<rt>えん</rt></ruby>
+  <font> 近</font>：<ruby>助<rt>たす</rt>ける、<rt></rt>支<rt>し</rt>援<rt>えん</rt></ruby>
   <br>
   <font> 析</font>：「援助」：表示给予物品和金钱来帮助他人。「支援」：表示通过间接得做法或实际行动来帮助他人。
 </div>
 
-- - -
+----
 
-## おおや①
+おおや①
 
 <span>
   <ruby>大<rt>おお</rt>家<rt>や</rt></ruby>
@@ -215,9 +205,9 @@ tag:
   <font> 近</font>：<ruby>家<rt>や</rt>主<rt>ぬし</rt></ruby>
 </div>
 
-- - -
+----
 
-## おもたい③
+おもたい③
 
 <span>
   <ruby>重<rt>おも</rt>たい</ruby>
@@ -225,12 +215,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>重<rt>おも</rt>たい<rt></rt>足<rt>あし</rt>を<rt></rt>引<rt>ひ</rt>きずって<rt></rt>歩<rt>ある</rt>いている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／拖着沉重得步伐走着。
   <br>
-  <font> 近</font>：<ruby>重<rt>おも</rt>い</ruby>、<ruby>すっきりしない</ruby>
+  <font> 近</font>：<ruby>重<rt>おも</rt>い、すっきりしない</ruby>
 </div>
 
-- - -
+----
 
-## およそ⓪
+およそ⓪
 
 <span>
   <ruby>凡<rt>およ</rt>そ</ruby>
@@ -238,12 +228,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>その<rt></rt>理<rt>り</rt>由<rt>ゆう</rt>についておよその<rt></rt>察<rt>さっ</rt>しはついている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／关于原因，大体能推测出来。
   <br>
-  <font> 近</font>：<ruby>大<rt>おお</rt>凡<rt>よそ</rt></ruby>、<ruby>大<rt>だい</rt>体<rt>たい</rt></ruby>、<ruby>約<rt>やく</rt></ruby>
+  <font> 近</font>：<ruby>大<rt>おお</rt>凡<rt>よそ</rt>、<rt></rt>大<rt>だい</rt>体<rt>たい</rt>、<rt></rt>約<rt>やく</rt></ruby>
 </div>
 
-- - -
+----
 
-## おんせん⓪
+おんせん⓪
 
 <span>
   <ruby>温<rt>おん</rt>泉<rt>せん</rt></ruby>
@@ -252,9 +242,9 @@ tag:
   <font> 例</font>：<ruby>温<rt>おん</rt>泉<rt>せん</rt>につかって<rt></rt>疲<rt>つか</rt>れをとりましょう。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／泡温泉，清除疲劳吧。
 </div>
 
-- - -
+----
 
-## かかく⓪
+かかく⓪
 
 <span>
   <ruby>価<rt>か</rt>格<rt>かく</rt></ruby>
@@ -265,9 +255,9 @@ tag:
   <font> 近</font>：<ruby>値<rt>ね</rt>段<rt>だん</rt></ruby>
 </div>
 
-- - -
+----
 
-## がく⓪
+がく⓪
 
 <span>
   <ruby>額<rt>がく</rt></ruby>
@@ -275,12 +265,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>買<rt>か</rt>い<rt></rt>物<rt>もの</rt>は<rt></rt>予<rt>よ</rt>定<rt>てい</rt>していた<rt></rt>額<rt>がく</rt>を<rt></rt>上<rt>うわ</rt>回<rt>まわ</rt>ってしまった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／买东西超出了预算。
   <br>
-  <font> 近</font>：<ruby>数<rt>すう</rt>量<rt>りょう</rt></ruby>、<ruby>枠<rt>わく</rt></ruby>
+  <font> 近</font>：<ruby>数<rt>すう</rt>量<rt>りょう</rt>、<rt></rt>枠<rt>わく</rt></ruby>
 </div>
 
-- - -
+----
 
-## かこむ⓪
+かこむ⓪
 
 <span>
   <ruby>囲<rt>かこ</rt>む</ruby>
@@ -293,9 +283,9 @@ tag:
   <font> 析</font>：「囲む」：表示与中心物体处于若即若离的状态，围绕在其周围。「巡る」：带有快速旋转之意。
 </div>
 
-- - -
+----
 
-## かさねる⓪
+かさねる⓪
 
 <span>
   <ruby>重<rt>かさ</rt>ねる</ruby>
@@ -303,23 +293,23 @@ tag:
 <div>
   <font> 例</font>：<ruby>先<rt>せん</rt>代<rt>だい</rt>は<rt></rt>苦<rt>く</rt>労<rt>ろう</rt>に<rt></rt>苦<rt>く</rt>労<rt>ろう</rt>を<rt></rt>重<rt>かさ</rt>ねて<rt></rt>財<rt>ざい</rt>産<rt>さん</rt>を<rt></rt>築<rt>きず</rt>いた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／上一辈人千辛万苦积累了今日的财产。
   <br>
-  <font> 近</font>：<ruby>積<rt>つ</rt>む</ruby>、<ruby>繰<rt>く</rt>り<rt></rt>返<rt>かえ</rt>す</ruby>
+  <font> 近</font>：<ruby>積<rt>つ</rt>む、<rt></rt>繰<rt>く</rt>り<rt></rt>返<rt>かえ</rt>す</ruby>
 </div>
 
-- - -
+----
 
-## カロリー①
+カロリー①
 
 <span>
-  <ruby>カロリー<rt>calorie</rt></ruby>
+  <ruby>カロリーcalorie</ruby>
 </span>&nbsp;① (名) 卡，卡路里
 <div>
   <font> 例</font>：<ruby>最<rt>さい</rt>近<rt>きん</rt>の<rt></rt>日<rt>に</rt>本<rt>ほん</rt>人<rt>じん</rt>はカロリーの<rt></rt>取<rt>と</rt>りすぎだ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／最近，人本人卡路里摄入量过多。
 </div>
 
-- - -
+----
 
-## きおく⓪
+きおく⓪
 
 <span>
   <ruby>記<rt>き</rt>憶<rt>おく</rt></ruby>
@@ -330,24 +320,24 @@ tag:
   <font> 近</font>：<ruby>覚<rt>おぼ</rt>え</ruby>
 </div>
 
-- - -
+----
 
-## キャリア①
+キャリア①
 
 <span>
-  <ruby>キャリア<rt>career</rt></ruby>
+  <ruby>キャリアcareer</ruby>
 </span>&nbsp;① (名) 生涯，经历
 <div>
   <font> 例</font>：<ruby>今<rt>こん</rt>度<rt>ど</rt>のことでは<rt></rt>彼<rt>かれ</rt>の<rt></rt>法<rt>ほう</rt>律<rt>りつ</rt>家<rt>か</rt>としてのキャリアが<rt></rt>物<rt>もの</rt>を<rt></rt>言<rt>い</rt>った。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／在这次事件中，他作为法律专家的职业经历起了作用。
   <br>
   <font> 近</font>：<ruby>経<rt>けい</rt>歴<rt>れき</rt></ruby>
   <br>
-  <font> 关</font>：<ruby>キャリア<rt></rt>教<rt>きょう</rt>育<rt>いく</rt>/职业教育</ruby>、<ruby>キャリアウーマン/职业妇女</ruby>、<ruby>キャリアバック/职业包</ruby>、<ruby>キャリアアップ/提高工作能力</ruby>
+  <font> 关</font>：<ruby>キャリア<rt></rt>教<rt>きょう</rt>育<rt>いく</rt>/职业教育、キャリアウーマン/职业妇女、キャリアバック/职业包、キャリアアップ/提高工作能力</ruby>
 </div>
 
-- - -
+----
 
-## きゅうげき⓪
+きゅうげき⓪
 
 <span>
   <ruby>急<rt>きゅう</rt>激<rt>げき</rt></ruby>
@@ -355,12 +345,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>最<rt>さい</rt>近<rt>きん</rt>気<rt>き</rt>温<rt>おん</rt>が<rt></rt>急<rt>きゅう</rt>激<rt>げき</rt>に<rt></rt>変<rt>へん</rt>化<rt>か</rt>している。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／最近气温急剧变化。
   <br>
-  <font> 近</font>：<ruby>突<rt>とつ</rt>然<rt>ぜん</rt></ruby>、<ruby>激<rt>はげ</rt>しい</ruby>
+  <font> 近</font>：<ruby>突<rt>とつ</rt>然<rt>ぜん</rt>、<rt></rt>激<rt>はげ</rt>しい</ruby>
 </div>
 
-- - -
+----
 
-## きろく⓪
+きろく⓪
 
 <span>
   <ruby>記<rt>き</rt>録<rt>ろく</rt></ruby>
@@ -368,12 +358,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>村<rt>むら</rt>がどれだけの<rt></rt>水<rt>すい</rt>害<rt>がい</rt>にあったかは<rt></rt>記<rt>き</rt>録<rt>ろく</rt>されていない。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／没有记录记载村庄遭受了多严重的水灾。
   <br>
-  <font> 近</font>：<ruby>レコード</ruby>、<ruby>記<rt>き</rt>入<rt>にゅう</rt></ruby>
+  <font> 近</font>：<ruby>レコード、<rt></rt>記<rt>き</rt>入<rt>にゅう</rt></ruby>
 </div>
 
-- - -
+----
 
-## ぐたい⓪
+ぐたい⓪
 
 <span>
   <ruby>具<rt>ぐ</rt>体<rt>たい</rt></ruby>
@@ -382,22 +372,22 @@ tag:
   <font> 例</font>：<ruby>君<rt>きみ</rt>の<rt></rt>考<rt>かんが</rt>えを<rt></rt>具<rt>ぐ</rt>体<rt>たい</rt>的<rt>てき</rt>に<rt></rt>言<rt>い</rt>い<rt></rt>表<rt>あらわ</rt>しなさい。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／请具体说说你的想法。
 </div>
 
-- - -
+----
 
-## クッキー①
+クッキー①
 
 <span>
-  <ruby>クッキー<rt>cookie</rt></ruby>
+  <ruby>クッキーcookie</ruby>
 </span>&nbsp;① (名) 饼干，曲奇
 <div>
   <font> 例</font>：<ruby>クッキーなどの<rt></rt>菓<rt>か</rt>子<rt>し</rt>製<rt>せい</rt>造<rt>ぞう</rt>販<rt>はん</rt>売<rt>ばい</rt>をしている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我从事饼干等点心的制作销售工作。
   <br>
-  <font> 近</font>：<ruby>菓<rt>か</rt>子<rt>し</rt></ruby>、<ruby>ビスケット</ruby>
+  <font> 近</font>：<ruby>菓<rt>か</rt>子<rt>し</rt>、ビスケット</ruby>
 </div>
 
-- - -
+----
 
-## けいえい⓪
+けいえい⓪
 
 <span>
   <ruby>経<rt>けい</rt>営<rt>えい</rt></ruby>
@@ -405,12 +395,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>父<rt>ちち</rt>親<rt>おや</rt>は<rt></rt>彼<rt>かれ</rt>に<rt></rt>農<rt>のう</rt>場<rt>じょう</rt>の<rt></rt>経<rt>けい</rt>営<rt>えい</rt>を<rt></rt>任<rt>まか</rt>せた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／父亲把农场的经营交给了他。
   <br>
-  <font> 近</font>：<ruby>営<rt>いとな</rt>む</ruby>、<ruby>運<rt>うん</rt>営<rt>えい</rt></ruby>
+  <font> 近</font>：<ruby>営<rt>いとな</rt>む、<rt></rt>運<rt>うん</rt>営<rt>えい</rt></ruby>
 </div>
 
-- - -
+----
 
-## ける①
+ける①
 
 <span>
   <ruby>蹴<rt>け</rt>る</ruby>
@@ -418,12 +408,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>経<rt>けい</rt>営<rt>えい</rt>者<rt>しゃ</rt>側<rt>がわ</rt>は<rt></rt>組<rt>くみ</rt>合<rt>かい</rt>の<rt></rt>要<rt>よう</rt>求<rt>きゅう</rt>をけった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／经营者一方拒绝了工会的要求。
   <br>
-  <font> 近</font>：<ruby>拒<rt>きょ</rt>絶<rt>ぜつ</rt>する</ruby>、<ruby>はねつける</ruby>
+  <font> 近</font>：<ruby>拒<rt>きょ</rt>絶<rt>ぜつ</rt>する、はねつける</ruby>
 </div>
 
-- - -
+----
 
-## こうぞう⓪
+こうぞう⓪
 
 <span>
   <ruby>構<rt>こう</rt>造<rt>ぞう</rt></ruby>
@@ -431,23 +421,23 @@ tag:
 <div>
   <font> 例</font>：<ruby>教<rt>きょう</rt>育<rt>いく</rt>制<rt>せい</rt>度<rt>ど</rt>の<rt></rt>構<rt>こう</rt>造<rt>ぞう</rt>改<rt>かい</rt>革<rt>かく</rt>が<rt></rt>必<rt>ひつ</rt>要<rt>よう</rt>だ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／有必要对教育制度进行结构改革。
   <br>
-  <font> 近</font>：<ruby>仕<rt>し</rt>組<rt>く</rt>み</ruby>、<ruby>組<rt>く</rt>み<rt></rt>立<rt>た</rt>て</ruby>
+  <font> 近</font>：<ruby>仕<rt>し</rt>組<rt>く</rt>み、<rt></rt>組<rt>く</rt>み<rt></rt>立<rt>た</rt>て</ruby>
 </div>
 
-- - -
+----
 
-## コインロッカー④
+コインロッカー④
 
 <span>
-  <ruby>コインロッカー<rt>coin locker</rt></ruby>
+  <ruby>コインロッカーcoin locker</ruby>
 </span>&nbsp;④ (名) 投币式自动存放柜
 <div>
   <font> 例</font>：<ruby>かばんをコインロッカーに<rt></rt>預<rt>あず</rt>ける。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／将包存在投币式自动存放柜中。
 </div>
 
-- - -
+----
 
-## こえる③
+こえる③
 
 <span>
   <ruby>越<rt>こ</rt>える・<rt></rt>超<rt>こ</rt>える</ruby>
@@ -458,9 +448,9 @@ tag:
   <font> 近</font>：<ruby>超<rt>ちょう</rt>過<rt>か</rt></ruby>
 </div>
 
-- - -
+----
 
-## こくばん⓪
+こくばん⓪
 
 <span>
   <ruby>黒<rt>こく</rt>板<rt>ばん</rt></ruby>
@@ -469,9 +459,9 @@ tag:
   <font> 例</font>：<ruby>期<rt>き</rt>末<rt>まつ</rt>試<rt>し</rt>験<rt>けん</rt>の<rt></rt>具<rt>ぐ</rt>体<rt>たい</rt>的<rt>てき</rt>な<rt></rt>時<rt>じ</rt>間<rt>かん</rt>が<rt></rt>黒<rt>こく</rt>板<rt>ばん</rt>に<rt></rt>書<rt>か</rt>いてある。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／黑板上写着期末考试的具体时间。
 </div>
 
-- - -
+----
 
-## ごめん⓪
+ごめん⓪
 
 <span>
   <ruby>御<rt>ご</rt>免<rt>めん</rt></ruby>
@@ -479,27 +469,27 @@ tag:
 <div>
   <font> 例</font>：<ruby>それだけは<rt></rt>御<rt>ご</rt>免<rt>めん</rt>です。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／就那件事，恕我不能做。
   <br>
-  <font> 惯</font>：<ruby>御<rt>ご</rt>免<rt>めん</rt>なさい/对不起，请原谅</ruby>、<ruby>御<rt>ご</rt>免<rt>めん</rt>ください/有人在家吗，我可以进来吗</ruby>
+  <font> 惯</font>：<ruby>御<rt>ご</rt>免<rt>めん</rt>なさい/对不起，请原谅、<rt></rt>御<rt>ご</rt>免<rt>めん</rt>ください/有人在家吗，我可以进来吗</ruby>
 </div>
 
-- - -
+----
 
-## コンパクト①
+コンパクト①
 
 <span>
-  <ruby>コンパクト<rt>compact</rt></ruby>
+  <ruby>コンパクトcompact</ruby>
 </span>&nbsp;① (名・形动) 小型的；紧密的；连镜小粉盒
 <div>
   <font> 例</font>：<ruby>コンパクトに<rt></rt>収<rt>おさ</rt>める。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／收进小粉盒中。
   <br>
-  <font> 近</font>：<ruby>こじんまり</ruby>、<ruby>ぎっしり</ruby>
+  <font> 近</font>：<ruby>こじんまり、ぎっしり</ruby>
   <br>
   <font> 关</font>：<ruby>コンパクトディスク/CD</ruby>
 </div>
 
-- - -
+----
 
-## さいわい⓪
+さいわい⓪
 
 <span>
   <ruby>幸<rt>さいわ</rt>い</ruby>
@@ -507,15 +497,15 @@ tag:
 <div>
   <font> 例</font>：<ruby>私<rt>わたし</rt>が<rt></rt>訪<rt>たず</rt>ねた<rt></rt>時<rt>とき</rt>幸<rt>さいわ</rt>い<rt></rt>彼<rt>かれ</rt>は<rt></rt>在<rt>ざい</rt>宅<rt>たく</rt>だった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／幸运的是，我去拜访时他正好在家。
   <br>
-  <font> 近</font>：<ruby>運<rt>うん</rt>良<rt>よ</rt>く</ruby>、<ruby>幸<rt>しあわ</rt>せ</ruby>、<ruby>幸<rt>こう</rt>福<rt>ふく</rt></ruby>、<ruby>幸<rt>こう</rt>運<rt>うん</rt></ruby>
+  <font> 近</font>：<ruby>運<rt>うん</rt>良<rt>よ</rt>く、<rt></rt>幸<rt>しあわ</rt>せ、<rt></rt>幸<rt>こう</rt>福<rt>ふく</rt>、<rt></rt>幸<rt>こう</rt>運<rt>うん</rt></ruby>
 </div>
 
-- - -
+----
 
-## ジーンズ①
+ジーンズ①
 
 <span>
-  <ruby>ジーンズ<rt>jeans</rt></ruby>
+  <ruby>ジーンズjeans</ruby>
 </span>&nbsp;① (名) 牛仔裤；细长工装裤；斜纹（棉）布
 <div>
   <font> 例</font>：<ruby>日<rt>に</rt>本<rt>ほん</rt>で<rt></rt>一<rt>いち</rt>番<rt>ばん</rt>最<rt>さい</rt>初<rt>しょ</rt>にジーンズを<rt></rt>作<rt>つく</rt>ったのは<rt></rt>当<rt>とう</rt>メーカーだった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／在日本第一家生产牛仔裤的就是本公司。
@@ -523,9 +513,9 @@ tag:
   <font> 近</font>：<ruby>ジーパン</ruby>
 </div>
 
-- - -
+----
 
-## しぜん⓪
+しぜん⓪
 
 <span>
   <ruby>自<rt>し</rt>然<rt>ぜん</rt></ruby>
@@ -534,9 +524,9 @@ tag:
   <font> 例</font>：<ruby>子<rt>し</rt>孫<rt>そん</rt>のために<rt></rt>美<rt>うつく</rt>しい<rt></rt>自<rt>し</rt>然<rt>ぜん</rt>を<rt></rt>保<rt>ほ</rt>護<rt>ご</rt>してゆかねばならない。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我们必须为了子孙保护美丽的大自然。
 </div>
 
-- - -
+----
 
-## じっかん⓪
+じっかん⓪
 
 <span>
   <ruby>実<rt>じっ</rt>感<rt>かん</rt></ruby>
@@ -551,9 +541,9 @@ tag:
   <font> 析</font>：「実感」：表示作为现实的东西感知或从心底感受确实如此。亦可表示实际接触时的感觉。「痛感」：表示强烈而深刻地感受确实如此。多用来形容以某事为契机而铭刻在心的情况。
 </div>
 
-- - -
+----
 
-## じむ①
+じむ①
 
 <span>
   <ruby>事<rt>じ</rt>務<rt>む</rt></ruby>
@@ -564,9 +554,9 @@ tag:
   <font> 近</font>：<ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby>
 </div>
 
-- - -
+----
 
-## しょくば⓪
+しょくば⓪
 
 <span>
   <ruby>職<rt>しょく</rt>場<rt>ば</rt></ruby>
@@ -577,9 +567,9 @@ tag:
   <font> 近</font>：<ruby>勤<rt>つと</rt>め<rt></rt>先<rt>さき</rt></ruby>
 </div>
 
-- - -
+----
 
-## しりつ①
+しりつ①
 
 <span>
   <ruby>私<rt>し</rt>立<rt>りつ</rt></ruby>
@@ -587,12 +577,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>私<rt>わたし</rt>たちの<rt></rt>学<rt>がっ</rt>校<rt>こう</rt>は<rt></rt>私<rt>し</rt>立<rt>りつ</rt>です。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我们学校是私立的。
   <br>
-  <font> 反</font>：<ruby>国<rt>こく</rt>立<rt>りつ</rt></ruby>、<ruby>公<rt>こう</rt>立<rt>りつ</rt></ruby>
+  <font> 反</font>：<ruby>国<rt>こく</rt>立<rt>りつ</rt>、<rt></rt>公<rt>こう</rt>立<rt>りつ</rt></ruby>
 </div>
 
-- - -
+----
 
-## しんけい①
+しんけい①
 
 <span>
   <ruby>神<rt>しん</rt>経<rt>けい</rt></ruby>
@@ -601,9 +591,9 @@ tag:
   <font> 例</font>：<ruby>ああ<rt></rt>見<rt>み</rt>ても<rt></rt>彼<rt>かの</rt>女<rt>じょ</rt>はかなり<rt></rt>神<rt>しん</rt>経<rt>けい</rt>が<rt></rt>細<rt>こま</rt>かいやつだ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／别看她那样，她其实是个感情细腻的家伙。
 </div>
 
-- - -
+----
 
-## しんちょう⓪
+しんちょう⓪
 
 <span>
   <ruby>慎<rt>しん</rt>重<rt>ちょう</rt></ruby>
@@ -614,20 +604,20 @@ tag:
   <font> 近</font>：<ruby>用<rt>よう</rt>心<rt>じん</rt>深<rt>ぶか</rt>い</ruby>
 </div>
 
-- - -
+----
 
-## スカーフ②
+スカーフ②
 
 <span>
-  <ruby>スカーフ<rt>scarf</rt></ruby>
+  <ruby>スカーフscarf</ruby>
 </span>&nbsp;② (名) 头巾，围巾，披肩
 <div>
   <font> 例</font>：<ruby>スカーフを<rt></rt>三<rt>さん</rt>角<rt>かく</rt>に<rt></rt>折<rt>お</rt>って<rt></rt>頭<rt>あたま</rt>にかぶる。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／将围巾折成三角形盖在头上。
 </div>
 
-- - -
+----
 
-## すっぱい③
+すっぱい③
 
 <span>
   <ruby>酸<rt>す</rt>っぱい</ruby>
@@ -636,9 +626,9 @@ tag:
   <font> 例</font>：<ruby>この<rt></rt>豆<rt>とう</rt>腐<rt>ふ</rt>は<rt></rt>少<rt>すこ</rt>し<rt></rt>酸<rt>す</rt>っぱくなっているらしい、もう<rt></rt>食<rt>た</rt>べない<rt></rt>方<rt>ごう</rt>がいい。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／这块豆腐好像有点儿酸了，还是不吃为好。
 </div>
 
-- - -
+----
 
-## せいきゅう⓪
+せいきゅう⓪
 
 <span>
   <ruby>請<rt>せい</rt>求<rt>きゅう</rt></ruby>
@@ -646,12 +636,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>本<rt>ほん</rt>のカタログは<rt></rt>請<rt>せい</rt>求<rt>きゅう</rt>があれば<rt></rt>送<rt>そう</rt>付<rt>ふ</rt>します。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／如果您索取图书目录，我们会为您寄送。
   <br>
-  <font> 近</font>：<ruby>求<rt>もと</rt>める</ruby>、<ruby>要<rt>よう</rt>求<rt>きゅう</rt></ruby>
+  <font> 近</font>：<ruby>求<rt>もと</rt>める、<rt></rt>要<rt>よう</rt>求<rt>きゅう</rt></ruby>
 </div>
 
-- - -
+----
 
-## せいぶつ①
+せいぶつ①
 
 <span>
   <ruby>生<rt>せい</rt>物<rt>ぶつ</rt></ruby>
@@ -662,9 +652,9 @@ tag:
   <font> 近</font>：<ruby>生<rt>い</rt>き<rt></rt>物<rt>もの</rt></ruby>
 </div>
 
-- - -
+----
 
-## せいべつ⓪
+せいべつ⓪
 
 <span>
   <ruby>性<rt>せい</rt>別<rt>べつ</rt></ruby>
@@ -673,9 +663,9 @@ tag:
   <font> 例</font>：<ruby>性<rt>せい</rt>別<rt>べつ</rt>・<rt></rt>年<rt>ねん</rt>齢<rt>れい</rt>別<rt>べつ</rt>に<rt></rt>関<rt>かん</rt>係<rt>けい</rt>なく<rt></rt>応<rt>おう</rt>募<rt>ぼ</rt>することができる。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／不限性别，年龄，均可应聘。
 </div>
 
-- - -
+----
 
-## せめて①
+せめて①
 
 <span>
   <ruby>せめて</ruby>
@@ -686,9 +676,9 @@ tag:
   <font> 近</font>：<ruby>少<rt>すく</rt>なくとも</ruby>
 </div>
 
-- - -
+----
 
-## せんこう⓪
+せんこう⓪
 
 <span>
   <ruby>専<rt>せん</rt>攻<rt>こう</rt></ruby>
@@ -699,12 +689,12 @@ tag:
   <font> 近</font>：<ruby>専<rt>せん</rt>門<rt>もん</rt></ruby>
 </div>
 
-- - -
+----
 
-## センチ①
+センチ①
 
 <span>
-  <ruby>センチ<rt>centi</rt></ruby>
+  <ruby>センチcenti</ruby>
 </span>&nbsp;① (名) 百分之一，厘
 <div>
   <font> 例</font>：<ruby>この<rt></rt>仏<rt>ぶつ</rt>像<rt>ぞう</rt>の<rt></rt>高<rt>たか</rt>さは10センチメートルに<rt></rt>過<rt>す</rt>ぎない。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／这座佛像的高度只有10厘米。
@@ -712,9 +702,9 @@ tag:
   <font> 近</font>：<ruby>センチメートル</ruby>
 </div>
 
-- - -
+----
 
-## そうさ①
+そうさ①
 
 <span>
   <ruby>操<rt>そう</rt>作<rt>さ</rt></ruby>
@@ -725,9 +715,9 @@ tag:
   <font> 近</font>：<ruby>動<rt>うご</rt>かす</ruby>
 </div>
 
-- - -
+----
 
-## ただちに①
+ただちに①
 
 <span>
   <ruby>直<rt>ただ</rt>ちに</ruby>
@@ -735,12 +725,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>病<rt>びょう</rt>人<rt>にん</rt>にただちに<rt></rt>手<rt>しゅ</rt>術<rt>じゅつ</rt>を<rt></rt>必<rt>ひつ</rt>要<rt>よう</rt>とする。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／有必要马上为病人做手术。
   <br>
-  <font> 近</font>：<ruby>すぐに</ruby>、<ruby>直<rt>ちょく</rt>接<rt>せつ</rt>に</ruby>、<ruby>直<rt>じか</rt>に</ruby>
+  <font> 近</font>：<ruby>すぐに、<rt></rt>直<rt>ちょく</rt>接<rt>せつ</rt>に、<rt></rt>直<rt>じか</rt>に</ruby>
 </div>
 
-- - -
+----
 
-## たちば①
+たちば①
 
 <span>
   <ruby>立<rt>たち</rt>場<rt>ば</rt></ruby>
@@ -748,12 +738,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>君<rt>きみ</rt>の<rt></rt>不<rt>ふ</rt>用<rt>よう</rt>意<rt>い</rt>な<rt></rt>言<rt>こと</rt>葉<rt>ば</rt>で<rt></rt>僕<rt>ぼく</rt>はまずい<rt></rt>立<rt>たち</rt>場<rt>ば</rt>に<rt></rt>立<rt>た</rt>たされてしまった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／你的不慎话语让我处境尴尬。
   <br>
-  <font> 近</font>：<ruby>場<rt>ば</rt></ruby>、<ruby>見<rt>み</rt>方<rt>かた</rt></ruby>
+  <font> 近</font>：<ruby>場<rt>ば</rt>、<rt></rt>見<rt>み</rt>方<rt>かた</rt></ruby>
 </div>
 
-- - -
+----
 
-## だんし①
+だんし①
 
 <span>
   <ruby>男<rt>だん</rt>子<rt>し</rt></ruby>
@@ -761,14 +751,14 @@ tag:
 <div>
   <font> 例</font>：<ruby>男<rt>だん</rt>子<rt>し</rt>用<rt>よう</rt>衣<rt>い</rt>類<rt>るい</rt>は4<rt></rt>階<rt>かい</rt>にあります。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／男士服装在四楼。
   <br>
-  <font> 近</font>：<ruby>男<rt>おとこ</rt></ruby>、<ruby>男<rt>だん</rt>性<rt>せい</rt></ruby>
+  <font> 近</font>：<ruby>男<rt>おとこ</rt>、<rt></rt>男<rt>だん</rt>性<rt>せい</rt></ruby>
   <br>
   <font> 反</font>：<ruby>女<rt>じょ</rt>子<rt>し</rt></ruby>
 </div>
 
-- - -
+----
 
-## ちえ②
+ちえ②
 
 <span>
   <ruby>知<rt>ち</rt>恵<rt>え</rt></ruby>
@@ -779,9 +769,9 @@ tag:
   <font> 惯</font>：<ruby>知<rt>ち</rt>恵<rt>え</rt>を<rt></rt>絞<rt>しぼ</rt>る/绞尽脑汁</ruby>
 </div>
 
-- - -
+----
 
-## ちかづく③
+ちかづく③
 
 <span>
   <ruby>近<rt>ちか</rt>づく</ruby>
@@ -789,12 +779,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>危<rt>き</rt>険<rt>けん</rt>が<rt></rt>近<rt>ちか</rt>づいてくるのを<rt></rt>感<rt>かん</rt>じた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我感觉到危险临近。
   <br>
-  <font> 近</font>：<ruby>接<rt>せっ</rt>近<rt>きん</rt></ruby>、<ruby>近<rt>ちか</rt>くなる</ruby>
+  <font> 近</font>：<ruby>接<rt>せっ</rt>近<rt>きん</rt>、<rt></rt>近<rt>ちか</rt>くなる</ruby>
 </div>
 
-- - -
+----
 
-## ちゅうおう③
+ちゅうおう③
 
 <span>
   <ruby>中<rt>ちゅう</rt>央<rt>おう</rt></ruby>
@@ -805,9 +795,9 @@ tag:
   <font> 近</font>：<ruby>真<rt>ま</rt>ん<rt></rt>中<rt>なか</rt></ruby>
 </div>
 
-- - -
+----
 
-## ちょうせつ⓪
+ちょうせつ⓪
 
 <span>
   <ruby>調<rt>ちょう</rt>節<rt>せつ</rt></ruby>
@@ -818,9 +808,9 @@ tag:
   <font> 近</font>：<ruby>整<rt>ととの</rt>える</ruby>
 </div>
 
-- - -
+----
 
-## ついで③
+ついで③
 
 <span>
   <ruby>ついで</ruby>
@@ -829,9 +819,9 @@ tag:
   <font> 例</font>：<ruby>学<rt>がっ</rt>校<rt>こう</rt>に<rt></rt>行<rt>い</rt>くついでに<rt></rt>図<rt>と</rt>書<rt>しょ</rt>館<rt>かん</rt>へ<rt></rt>寄<rt>よ</rt>った。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／去学校顺便去了图书馆。
 </div>
 
-- - -
+----
 
-## つかむ②
+つかむ②
 
 <span>
   <ruby>掴<rt>つか</rt>む</ruby>
@@ -839,12 +829,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>彼<rt>かれ</rt>はそれを<rt></rt>掴<rt>つか</rt>んでぎゅっと<rt></rt>握<rt>にぎ</rt>りしめた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／他抓住那个，使劲地握紧。
   <br>
-  <font> 近</font>：<ruby>捕<rt>つか</rt>まえる</ruby>、<ruby>握<rt>にぎ</rt>る</ruby>
+  <font> 近</font>：<ruby>捕<rt>つか</rt>まえる、<rt></rt>握<rt>にぎ</rt>る</ruby>
 </div>
 
-- - -
+----
 
-## つける②
+つける②
 
 <span>
   <ruby>着<rt>つ</rt>ける</ruby>
@@ -855,9 +845,9 @@ tag:
   <font> 近</font>：<ruby>帯<rt>お</rt>びる</ruby>
 </div>
 
-- - -
+----
 
-## ていき①
+ていき①
 
 <span>
   <ruby>定<rt>てい</rt>期<rt>き</rt></ruby>
@@ -866,9 +856,9 @@ tag:
   <font> 例</font>：<ruby>検<rt>けん</rt>診<rt>しん</rt>係<rt>がかり</rt>は<rt></rt>定<rt>てい</rt>期<rt>き</rt>的<rt>てき</rt>にガスのメーターを<rt></rt>調<rt>しら</rt>べに<rt></rt>来<rt>く</rt>る。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／查表员定期来查煤气表。
 </div>
 
-- - -
+----
 
-## できる②
+できる②
 
 <span>
   <ruby>出<rt>で</rt>来<rt>き</rt>る</ruby>
@@ -876,12 +866,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>準<rt>じゅん</rt>備<rt>び</rt>が<rt></rt>出<rt>で</rt>来<rt>き</rt>次<rt>し</rt>第<rt>だい</rt>出<rt>で</rt>かけよう。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／一准备完，我们就出发吧。
   <br>
-  <font> 近</font>：<ruby>仕<rt>し</rt>上<rt>あ</rt>がる</ruby>、<ruby>出<rt>で</rt>来<rt>き</rt>上<rt>あ</rt>がる</ruby>、<ruby>生<rt>う</rt>まれる</ruby>
+  <font> 近</font>：<ruby>仕<rt>し</rt>上<rt>あ</rt>がる、<rt></rt>出<rt>で</rt>来<rt>き</rt>上<rt>あ</rt>がる、<rt></rt>生<rt>う</rt>まれる</ruby>
 </div>
 
-- - -
+----
 
-## てつどう⓪
+てつどう⓪
 
 <span>
   <ruby>鉄<rt>てつ</rt>道<rt>どう</rt></ruby>
@@ -890,9 +880,9 @@ tag:
   <font> 例</font>：<ruby>京<rt>きょう</rt>都<rt>と</rt>から<rt></rt>奈<rt>な</rt>良<rt>ら</rt>まで<rt></rt>鉄<rt>てつ</rt>道<rt>どう</rt>が<rt></rt>通<rt>つう</rt>じている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／从京都到奈良通有铁路。
 </div>
 
-- - -
+----
 
-## てんこう⓪
+てんこう⓪
 
 <span>
   <ruby>天<rt>てん</rt>候<rt>こう</rt></ruby>
@@ -900,12 +890,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>今<rt>いま</rt>は<rt></rt>天<rt>けん</rt>候<rt>こう</rt>の<rt></rt>回<rt>かい</rt>復<rt>ふく</rt>を<rt></rt>待<rt>ま</rt>つよりほかない。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／现在只能等待天气好转了。
   <br>
-  <font> 近</font>：<ruby>天<rt>てん</rt>気<rt>き</rt></ruby>、<ruby>気<rt>き</rt>候<rt>こう</rt></ruby>
+  <font> 近</font>：<ruby>天<rt>てん</rt>気<rt>き</rt>、<rt></rt>気<rt>き</rt>候<rt>こう</rt></ruby>
 </div>
 
-- - -
+----
 
-## どうりょう⓪
+どうりょう⓪
 
 <span>
   <ruby>同<rt>どう</rt>僚<rt>りょう</rt></ruby>
@@ -914,9 +904,9 @@ tag:
   <font> 例</font>：<ruby>金<rt>きん</rt>曜<rt>よう</rt>日<rt>び</rt>の<rt></rt>夜<rt>よる</rt>はいつも<rt></rt>職<rt>しょく</rt>場<rt>ば</rt>の<rt></rt>同<rt>どう</rt>僚<rt>りょう</rt>と<rt></rt>飲<rt>の</rt>みに<rt></rt>行<rt>い</rt>く。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／周五晚上总是和单位同事去喝酒。
 </div>
 
-- - -
+----
 
-## とまる⓪
+とまる⓪
 
 <span>
   <ruby>泊<rt>と</rt>まる</ruby>
@@ -927,9 +917,9 @@ tag:
   <font> 近</font>：<ruby>宿<rt>しゅく</rt>泊<rt>はく</rt>する</ruby>
 </div>
 
-- - -
+----
 
-## どろ②
+どろ②
 
 <span>
   <ruby>泥<rt>どろ</rt></ruby>
@@ -940,9 +930,9 @@ tag:
   <font> 近</font>：<ruby>土<rt>つち</rt></ruby>
 </div>
 
-- - -
+----
 
-## な⓪
+な⓪
 
 <span>
   <ruby>名<rt>な</rt></ruby>
@@ -953,9 +943,9 @@ tag:
   <font> 近</font>：<ruby>名<rt>な</rt>前<rt>まえ</rt></ruby>
 </div>
 
-- - -
+----
 
-## なだらか②
+なだらか②
 
 <span>
   <ruby>なだらか</ruby>
@@ -963,14 +953,14 @@ tag:
 <div>
   <font> 例</font>：<ruby>庭<rt>にわ</rt>は<rt></rt>池<rt>いけ</rt>の<rt></rt>方<rt>ほう</rt>になだらかに<rt></rt>傾<rt>けい</rt>斜<rt>しゃ</rt>している。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／庭院向水池方向平缓倾斜。
   <br>
-  <font> 近</font>：<ruby>緩<rt>ゆる</rt>い</ruby>、<ruby>穏<rt>おだ</rt>やか</ruby>
+  <font> 近</font>：<ruby>緩<rt>ゆる</rt>い、<rt></rt>穏<rt>おだ</rt>やか</ruby>
   <br>
   <font> 反</font>：<ruby>険<rt>けわ</rt>しい</ruby>
 </div>
 
-- - -
+----
 
-## なる①
+なる①
 
 <span>
   <ruby>成<rt>な</rt>る</ruby>
@@ -979,9 +969,9 @@ tag:
   <font> 例</font>：<ruby>この<rt></rt>壁<rt>へき</rt>画<rt>が</rt>は3<rt></rt>人<rt>にん</rt>の<rt></rt>画<rt>が</rt>家<rt>か</rt>の<rt></rt>手<rt>て</rt>に<rt></rt>成<rt>な</rt>る。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／这幅画由三位画家共同完成。
 </div>
 
-- - -
+----
 
-## のうか①
+のうか①
 
 <span>
   <ruby>農<rt>のう</rt>家<rt>か</rt></ruby>
@@ -990,9 +980,9 @@ tag:
   <font> 例</font>：<ruby>うちは<rt></rt>代々<rt>だいだい</rt>農<rt>のう</rt>業<rt>ぎょう</rt>を<rt></rt>営<rt>いとな</rt>んでいる<rt></rt>農<rt>のう</rt>家<rt>か</rt>だ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我们家代代务农。
 </div>
 
-- - -
+----
 
-## のせる⓪
+のせる⓪
 
 <span>
   <ruby>乗<rt>の</rt>せる</ruby>
@@ -1001,9 +991,9 @@ tag:
   <font> 例</font>：<ruby>その<rt></rt>飛<rt>ひ</rt>行<rt>こう</rt>機<rt>き</rt>は<rt></rt>首<rt>しゅ</rt>相<rt>しょう</rt>の<rt></rt>一<rt>いっ</rt>行<rt>こう</rt>を<rt></rt>乗<rt>の</rt>せていた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／那家飞机搭乘着首相一行。
 </div>
 
-- - -
+----
 
-## のぞく⓪
+のぞく⓪
 
 <span>
   <ruby>除<rt>のぞ</rt>く</ruby>
@@ -1011,23 +1001,23 @@ tag:
 <div>
   <font> 例</font>：<ruby>無<rt>む</rt>関<rt>かん</rt>係<rt>けい</rt>の<rt></rt>項<rt>こう</rt>目<rt>もく</rt>を<rt></rt>除<rt>のぞ</rt>いてください。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／请删除无关项目。
   <br>
-  <font> 近</font>：<ruby>取<rt>と</rt>り<rt></rt>消<rt>け</rt>す</ruby>、<ruby>省<rt>はぶ</rt>く</ruby>
+  <font> 近</font>：<ruby>取<rt>と</rt>り<rt></rt>消<rt>け</rt>す、<rt></rt>省<rt>はぶ</rt>く</ruby>
 </div>
 
-- - -
+----
 
-## パーセント③
+パーセント③
 
 <span>
-  <ruby>パーセント<rt>percent</rt></ruby>
+  <ruby>パーセントpercent</ruby>
 </span>&nbsp;③ (名) 百分比
 <div>
   <font> 例</font>：<ruby>明<rt>あ</rt>日<rt>す</rt>の<rt></rt>降<rt>こう</rt>水<rt>すい</rt>確<rt>かく</rt>率<rt>りつ</rt>は60パーセントでしょう。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／明天降水概率是60%吧。
 </div>
 
-- - -
+----
 
-## はいたつ⓪
+はいたつ⓪
 
 <span>
   <ruby>配<rt>はい</rt>達<rt>たつ</rt></ruby>
@@ -1035,23 +1025,23 @@ tag:
 <div>
   <font> 例</font>：<ruby>配<rt>はい</rt>達<rt>たつ</rt>した<rt></rt>時<rt>とき</rt>お<rt></rt>金<rt>かね</rt>を<rt></rt>払<rt>はら</rt>ってください。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／送货时间请支付尾款。
   <br>
-  <font> 近</font>：<ruby>配<rt>くば</rt>る</ruby>、<ruby>届<rt>とど</rt>ける</ruby>
+  <font> 近</font>：<ruby>配<rt>くば</rt>る、<rt></rt>届<rt>とど</rt>ける</ruby>
 </div>
 
-- - -
+----
 
-## パイロット③
+パイロット③
 
 <span>
-  <ruby>パイロット<rt>pilot</rt></ruby>
+  <ruby>パイロットpilot</ruby>
 </span>&nbsp;③ (名) 飞行员；领港员，领航员，引水员
 <div>
   <font> 例</font>：<ruby>パイロットの<rt></rt>業<rt>ぎょう</rt>務<rt>む</rt>範<rt>はん</rt>囲<rt>い</rt>：<rt></rt>操<rt>そう</rt>縦<rt>じゅう</rt>士<rt>し</rt>は、<rt></rt>言<rt>い</rt>うまでもなく<rt></rt>航<rt>こう</rt>空<rt>くう</rt>機<rt>き</rt>の<rt></rt>操<rt>そう</rt>縦<rt>じゅう</rt>を<rt></rt>行<rt>おこな</rt>うことを<rt></rt>業<rt>ぎょう</rt>務<rt>む</rt>とするものです。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／飞行员的业务范围：毋庸赘言飞机驾驶员的工作就是驾驶飞机。
 </div>
 
-- - -
+----
 
-## はねる②
+はねる②
 
 <span>
   <ruby>跳<rt>は</rt>ねる</ruby>
@@ -1059,12 +1049,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>馬<rt>うま</rt>が<rt></rt>急<rt>きゅう</rt>に<rt></rt>跳<rt>は</rt>ねて<rt></rt>私<rt>わたし</rt>を<rt></rt>蹴<rt>け</rt>った。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／马突然跳起踢了我。
   <br>
-  <font> 近</font>：<ruby>飛<rt>と</rt>び<rt></rt>上<rt>あ</rt>がる</ruby>、<ruby>弾<rt>はず</rt>む</ruby>
+  <font> 近</font>：<ruby>飛<rt>と</rt>び<rt></rt>上<rt>あ</rt>がる、<rt></rt>弾<rt>はず</rt>む</ruby>
 </div>
 
-- - -
+----
 
-## ひかく⓪
+ひかく⓪
 
 <span>
   <ruby>比<rt>ひ</rt>較<rt>かく</rt></ruby>
@@ -1075,9 +1065,9 @@ tag:
   <font> 近</font>：<ruby>比<rt>くら</rt>べる</ruby>
 </div>
 
-- - -
+----
 
-## ひづけ⓪
+ひづけ⓪
 
 <span>
   <ruby>比<rt>ひ</rt>較<rt>かく</rt></ruby>
@@ -1085,12 +1075,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>4<rt></rt>月<rt>がつ</rt>3<rt></rt>日<rt>か</rt>の<rt></rt>日<rt>ひ</rt>付<rt>づけ</rt>で<rt></rt>手<rt>て</rt>紙<rt>がみ</rt>を<rt></rt>出<rt>だ</rt>した。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我写上4月3日的日期，寄走了书信。
   <br>
-  <font> 近</font>：<ruby>日<rt>にち</rt>時<rt>じ</rt></ruby>、<ruby>月<rt>つき</rt>日<rt>ひ</rt></ruby>
+  <font> 近</font>：<ruby>日<rt>にち</rt>時<rt>じ</rt>、<rt></rt>月<rt>つき</rt>日<rt>ひ</rt></ruby>
 </div>
 
-- - -
+----
 
-## ふあん⓪
+ふあん⓪
 
 <span>
   <ruby>不<rt>ふ</rt>安<rt>あん</rt></ruby>
@@ -1103,9 +1093,9 @@ tag:
   <font> 析</font>：「不安」：担心可能会发生不好的事情。「心配」：担心的事物范围很广。表示在意现在如何，将来又会怎么样。
 </div>
 
-- - -
+----
 
-## ふえ⓪
+ふえ⓪
 
 <span>
   <ruby>笛<rt>ふえ</rt></ruby>
@@ -1114,9 +1104,9 @@ tag:
   <font> 例</font>：<ruby>遠<rt>とお</rt>くから<rt></rt>笛<rt>ふえ</rt>の<rt></rt>音<rt>おと</rt>が<rt></rt>聞<rt>き</rt>こえた。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／从远处传来笛声。
 </div>
 
-- - -
+----
 
-## ふくむ②
+ふくむ②
 
 <span>
   <ruby>含<rt>ふく</rt>む</ruby>
@@ -1124,12 +1114,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>この<rt></rt>本<rt>ほん</rt>には<rt></rt>有<rt>ゆう</rt>益<rt>えき</rt>な<rt></rt>情<rt>じょう</rt>報<rt>ほう</rt>が<rt></rt>含<rt>ふく</rt>まれている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／这本书中含有有益的信息。
   <br>
-  <font> 近</font>：<ruby>包<rt>つつ</rt>む</ruby>、<ruby>帯<rt>お</rt>びる</ruby>
+  <font> 近</font>：<ruby>包<rt>つつ</rt>む、<rt></rt>帯<rt>お</rt>びる</ruby>
 </div>
 
-- - -
+----
 
-## ふざける③
+ふざける③
 
 <span>
   <ruby>ふざける</ruby>
@@ -1137,12 +1127,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>あれはふざけて<rt></rt>言<rt>い</rt>ったんですから、<rt></rt>真<rt>ま</rt>面<rt>じ</rt>目<rt>め</rt>に<rt></rt>受<rt>う</rt>けっ<rt></rt>取<rt>と</rt>らないでね。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／那是开玩笑的，不要当真。
   <br>
-  <font> 近</font>：<ruby>騒<rt>さわ</rt>ぐ</ruby>、<ruby>冗<rt>じょう</rt>談<rt>だん</rt>を<rt></rt>言<rt>い</rt>う</ruby>、<ruby>馬<rt>ば</rt>鹿<rt>か</rt>にする</ruby>
+  <font> 近</font>：<ruby>騒<rt>さわ</rt>ぐ、<rt></rt>冗<rt>じょう</rt>談<rt>だん</rt>を<rt></rt>言<rt>い</rt>う、<rt></rt>馬<rt>ば</rt>鹿<rt>か</rt>にする</ruby>
 </div>
 
-- - -
+----
 
-## ふしぎ⓪
+ふしぎ⓪
 
 <span>
   <ruby>不<rt>ふ</rt>思<rt>し</rt>議<rt>ぎ</rt></ruby>
@@ -1150,12 +1140,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>不<rt>ふ</rt>思<rt>し</rt>議<rt>ぎ</rt>な<rt></rt>事<rt>じ</rt>件<rt>けん</rt>が<rt></rt>相<rt>あい</rt>次<rt>つ</rt>いで<rt></rt>起<rt>お</rt>こった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／奇怪的事接连发生。
   <br>
-  <font> 近</font>：<ruby>奇<rt>き</rt>妙<rt>みょう</rt></ruby>、<ruby>怪<rt>あや</rt>しい</ruby>
+  <font> 近</font>：<ruby>奇<rt>き</rt>妙<rt>みょう</rt>、<rt></rt>怪<rt>あや</rt>しい</ruby>
 </div>
 
-- - -
+----
 
-## ぶつかる⓪
+ぶつかる⓪
 
 <span>
   <ruby>ぶつかる</ruby>
@@ -1163,12 +1153,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>2<rt></rt>台<rt>だい</rt>の<rt></rt>車<rt>くるま</rt>が<rt></rt>正<rt>しょう</rt>面<rt>めん</rt>からぶつかった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／两辆车正面相撞。
   <br>
-  <font> 近</font>：<ruby>衝<rt>しょう</rt>突<rt>とつ</rt></ruby>、<ruby>突<rt>つ</rt>き<rt></rt>当<rt>あ</rt>たる</ruby>
+  <font> 近</font>：<ruby>衝<rt>しょう</rt>突<rt>とつ</rt>、<rt></rt>突<rt>つ</rt>き<rt></rt>当<rt>あ</rt>たる</ruby>
 </div>
 
-- - -
+----
 
-## ほうこく⓪
+ほうこく⓪
 
 <span>
   <ruby>報<rt>ほう</rt>告<rt>こく</rt></ruby>
@@ -1176,12 +1166,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>私<rt>わたし</rt>は<rt></rt>事<rt>じ</rt>件<rt>けん</rt>について<rt></rt>細<rt>ほそ</rt>かく<rt></rt>報<rt>ほう</rt>告<rt>こく</rt>した。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我将事情详细地进行了报告。
   <br>
-  <font> 近</font>：<ruby>レポート</ruby>、<ruby>知<rt>し</rt>らせ</ruby>
+  <font> 近</font>：<ruby>レポート、<rt></rt>知<rt>し</rt>らせ</ruby>
 </div>
 
-- - -
+----
 
-## まいご①
+まいご①
 
 <span>
   <ruby>迷<rt>まい</rt>子<rt>ご</rt></ruby>
@@ -1190,9 +1180,9 @@ tag:
   <font> 例</font>：<ruby>迷<rt>まい</rt>子<rt>ご</rt>のご<rt></rt>案<rt>あい</rt>内<rt>ない</rt>を<rt></rt>申<rt>もう</rt>し<rt></rt>上<rt>あ</rt>げます。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／下面播报孩童寻人启事。
 </div>
 
-- - -
+----
 
-## まなぶ③
+まなぶ③
 
 <span>
   <ruby>学<rt>まな</rt>ぶ</ruby>
@@ -1200,12 +1190,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>大<rt>だい</rt>学<rt>がく</rt>で<rt></rt>森<rt>もり</rt>先<rt>せん</rt>生<rt>せい</rt>について<rt></rt>経<rt>けい</rt>済<rt>ざい</rt>学<rt>がく</rt>を<rt></rt>学<rt>まな</rt>ぶ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／我在大学跟森老师学习经济学。
   <br>
-  <font> 近</font>：<ruby>勉<rt>べん</rt>強<rt>きょう</rt></ruby>、<ruby>習<rt>なら</rt>う</ruby>
+  <font> 近</font>：<ruby>勉<rt>べん</rt>強<rt>きょう</rt>、<rt></rt>習<rt>なら</rt>う</ruby>
 </div>
 
-- - -
+----
 
-## みっともない⑤
+みっともない⑤
 
 <span>
   <ruby>みっともない</ruby>
@@ -1216,9 +1206,9 @@ tag:
   <font> 近</font>：<ruby>みにくい</ruby>
 </div>
 
-- - -
+----
 
-## みとめる④
+みとめる④
 
 <span>
   <ruby>認<rt>みと</rt>める</ruby>
@@ -1226,12 +1216,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>彼<rt>かれ</rt>は<rt></rt>正<rt>しょう</rt>直<rt>じき</rt>な<rt></rt>人<rt>じん</rt>物<rt>ぶつ</rt>だと<rt></rt>認<rt>みと</rt>められている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／大家认可他是正值的人。
   <br>
-  <font> 近</font>：<ruby>気<rt>き</rt>付<rt>づく</rt></ruby>、<ruby>判<rt>はん</rt>断<rt>だん</rt>する</ruby>、<ruby>許<rt>きょ</rt>可<rt>か</rt></ruby>
+  <font> 近</font>：<ruby>気<rt>き</rt>付<rt>づく</rt>、<rt></rt>判<rt>はん</rt>断<rt>だん</rt>する、<rt></rt>許<rt>きょ</rt>可<rt>か</rt></ruby>
 </div>
 
-- - -
+----
 
-## みほん⓪
+みほん⓪
 
 <span>
   <ruby>見本</ruby>
@@ -1239,12 +1229,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>これは<rt></rt>不<rt>ふ</rt>注<rt>ちゅう</rt>意<rt>い</rt>による<rt></rt>失<rt>しっ</rt>敗<rt>ぱい</rt>のいい<rt></rt>見<rt>み</rt>本<rt>ほん</rt>だ。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／这是由于疏忽而导致失败的典型案例。
   <br>
-  <font> 近</font>：<ruby>サンプル</ruby>、<ruby>手<rt>て</rt>本<rt>ほん</rt></ruby>
+  <font> 近</font>：<ruby>サンプル、<rt></rt>手<rt>て</rt>本<rt>ほん</rt></ruby>
 </div>
 
-- - -
+----
 
-## むき①
+むき①
 
 <span>
   <ruby>向<rt>む</rt>き</ruby>
@@ -1252,12 +1242,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>風<rt>かぜ</rt>の<rt></rt>向<rt>む</rt>きが<rt></rt>変<rt>か</rt>わった。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／风向变了。
   <br>
-  <font> 近</font>：<ruby>方<rt>ほう</rt>向<rt>こう</rt></ruby>、<ruby>適<rt>てき</rt>する</ruby>
+  <font> 近</font>：<ruby>方<rt>ほう</rt>向<rt>こう</rt>、<rt></rt>適<rt>てき</rt>する</ruby>
 </div>
 
-- - -
+----
 
-## めいかく⓪
+めいかく⓪
 
 <span>
   <ruby>明<rt>めい</rt>確<rt>かく</rt></ruby>
@@ -1265,12 +1255,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>この<rt></rt>点<rt>てん</rt>を<rt></rt>明<rt>めい</rt>確<rt>かく</rt>にする<rt></rt>必<rt>ひつ</rt>要<rt>よう</rt>がある。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／这一点有必要明确。
   <br>
-  <font> 近</font>：<ruby>確<rt>たし</rt>か</ruby>、<ruby>明<rt>あき</rt>らか</ruby>、<ruby>確<rt>かく</rt>実<rt>じつ</rt></ruby>
+  <font> 近</font>：<ruby>確<rt>たし</rt>か、<rt></rt>明<rt>あき</rt>らか、<rt></rt>確<rt>かく</rt>実<rt>じつ</rt></ruby>
 </div>
 
-- - -
+----
 
-## めった①
+めった①
 
 <span>
   <ruby>滅<rt>めっ</rt>多<rt>た</rt></ruby>
@@ -1278,12 +1268,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>日<rt>にち</rt>曜<rt>ようう</rt>日<rt>びは</rt>めったに<rt></rt>家<rt>いえ</rt>にいない。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／周日很少在家。
   <br>
-  <font> 近</font>：<ruby>たまに</ruby>、<ruby>ほとんど</ruby>
+  <font> 近</font>：<ruby>たまに、ほとんど</ruby>
 </div>
 
-- - -
+----
 
-## もどす②
+もどす②
 
 <span>
   <ruby>戻<rt>もど</rt>す</ruby>
@@ -1294,9 +1284,9 @@ tag:
   <font> 近</font>：<ruby>返<rt>かえ</rt>す</ruby>
 </div>
 
-- - -
+----
 
-## やかましい④
+やかましい④
 
 <span>
   <ruby>喧<rt>やかま</rt>しい</ruby>
@@ -1304,12 +1294,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>新<rt>あたら</rt>しい<rt></rt>鉄<rt>てる</rt>道<rt>どう</rt>建<rt>けん</rt>設<rt>せつ</rt>に<rt></rt>地<rt>じ</rt>元<rt>もと</rt>が<rt></rt>喧<rt>やかま</rt>しく<rt></rt>反<rt>はん</rt>対<rt>たい</rt>した。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／当地坚决反对建设新铁路。
   <br>
-  <font> 近</font>：<ruby>うるさい</ruby>、<ruby>騒<rt>さわ</rt>がしい</ruby>、<ruby>騒々<rt>そうぞう</rt>しい</ruby>、<ruby>厳<rt>きび</rt>しい</ruby>
+  <font> 近</font>：<ruby>うるさい、<rt></rt>騒<rt>さわ</rt>がしい、<rt></rt>騒々<rt>そうぞう</rt>しい、<rt></rt>厳<rt>きび</rt>しい</ruby>
 </div>
 
-- - -
+----
 
-## やがて③
+やがて③
 
 <span>
   <ruby>やがて</ruby>
@@ -1317,12 +1307,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>やがて<rt></rt>彼<rt>かれ</rt>に<rt></rt>分<rt>わ</rt>かる<rt></rt>時<rt>とき</rt>が<rt></rt>来<rt>く</rt>るでしょう。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／不久，他也会有明白的那一刻吧。
   <br>
-  <font> 近</font>：<ruby>間<rt>ま</rt>も<rt></rt>無<rt>な</rt>く</ruby>、<ruby>凡<rt>およ</rt>そ</ruby>
+  <font> 近</font>：<ruby>間<rt>ま</rt>も<rt></rt>無<rt>な</rt>く、<rt></rt>凡<rt>およ</rt>そ</ruby>
 </div>
 
-- - -
+----
 
-## ゆうこう⓪
+ゆうこう⓪
 
 <span>
   <ruby>有<rt>ゆう</rt>効<rt>こう</rt></ruby>
@@ -1335,9 +1325,9 @@ tag:
   <font> 反</font>：<ruby>無<rt>む</rt>効<rt>こう</rt></ruby>
 </div>
 
-- - -
+----
 
-## ゆるい②
+ゆるい②
 
 <span>
   <ruby>緩<rt>ゆる</rt>い</ruby>
@@ -1345,14 +1335,14 @@ tag:
 <div>
   <font> 例</font>：<ruby>海<rt>かい</rt>岸<rt>がん</rt>まで<rt></rt>緩<rt>ゆる</rt>い<rt></rt>勾<rt>こう</rt>配<rt>ばい</rt>になっている。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／平缓的斜坡一直延伸到海岸。
   <br>
-  <font> 近</font>：<ruby>緩<rt>ゆる</rt>やか</ruby>、<ruby>鈍<rt>にぶ</rt>い</ruby>、<ruby>なだらか</ruby>、<ruby>薄<rt>うす</rt>い</ruby>
+  <font> 近</font>：<ruby>緩<rt>ゆる</rt>やか、<rt></rt>鈍<rt>にぶ</rt>い、なだらか、<rt></rt>薄<rt>うす</rt>い</ruby>
   <br>
-  <font> 反</font>：<ruby>きつい</ruby>、<ruby>厳<rt>きび</rt>しい</ruby>、<ruby>急<rt>きゅう</rt></ruby>
+  <font> 反</font>：<ruby>きつい、<rt></rt>厳<rt>きび</rt>しい、<rt></rt>急<rt>きゅう</rt></ruby>
 </div>
 
-- - -
+----
 
-## よほう⓪
+よほう⓪
 
 <span>
   <ruby>予<rt>よ</rt>報<rt>ほう</rt></ruby>
@@ -1360,12 +1350,12 @@ tag:
 <div>
   <font> 例</font>：<ruby>気<rt>き</rt>象<rt>しょう</rt>庁<rt>ちょう</rt>によれば、<rt></rt>今<rt>こん</rt>夜<rt>や</rt>は<rt></rt>暴<rt>ぼう</rt>雨<rt>う</rt>になるらしい。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／据气象厅得到预报，今晚 有暴雨。
   <br>
-  <font> 近</font>：<ruby>知<rt>し</rt>らせ</ruby>、<ruby>報<rt>ほう</rt>告<rt>こく</rt></ruby>
+  <font> 近</font>：<ruby>知<rt>し</rt>らせ、<rt></rt>報<rt>ほう</rt>告<rt>こく</rt></ruby>
 </div>
 
-- - -
+----
 
-## れんそう⓪
+れんそう⓪
 
 <span>
   <ruby>連<rt>れん</rt>想<rt>そう</rt></ruby>
@@ -1374,9 +1364,9 @@ tag:
   <font> 例</font>：<ruby>白<rt>しろ</rt>というと<rt></rt>雪<rt>ゆき</rt>山<rt>やま</rt>を<rt></rt>連<rt>れん</rt>想<rt>そう</rt>する。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／说起白色人联想到雪山。
 </div>
 
-- - -
+----
 
-## わける②
+わける②
 
 <span>
   <ruby>分<rt>わ</rt>ける</ruby>
@@ -1384,6 +1374,6 @@ tag:
 <div>
   <font> 例</font>：<ruby>その<rt></rt>話<rt>はなし</rt>は5<rt></rt>回<rt>かい</rt>に<rt></rt>分<rt>わ</rt>けて<rt></rt>掲<rt>けい</rt>載<rt>さい</rt>された。</ruby><br>&nbsp;&nbsp;&nbsp;&nbsp;／那个故事分5次刊载。
   <br>
-  <font> 近</font>：<ruby>区<rt>く</rt>分<rt>ぶん</rt></ruby>、<ruby>配<rt>くば</rt>る</ruby>
+  <font> 近</font>：<ruby>区<rt>く</rt>分<rt>ぶん</rt>、<rt></rt>配<rt>くば</rt>る</ruby>
 </div>
 

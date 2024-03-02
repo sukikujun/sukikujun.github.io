@@ -1,13 +1,3 @@
----
-layout: post
-title: 绿宝书——Unit03
-date: 2023-07-03 18:30:00 +0900
-category: 绿宝书 
-tag: 
-  - 绿宝书
----
-
-# {{ page.title }}
 
 ## アイデア・アイディア③
 
