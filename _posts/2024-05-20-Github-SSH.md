@@ -2,7 +2,7 @@
 layout: post
 title: Github-SSH
 date: 2024-05-20 11:30:00 +0900
-category: [Git, SSH]
+category: Git
 tag: 
   - SSH
 ---
