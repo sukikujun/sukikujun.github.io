@@ -2,7 +2,7 @@
 layout: post
 title: HACHI-オリ-HONEY BEES
 date: 2023-02-03 19:30:00 +0900
-category: [Vutuber, HACHI]
+category: [VTuber, HACHI]
 tag: 
   - HACHI
   - オリジナル

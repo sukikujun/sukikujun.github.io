@@ -2,7 +2,7 @@
 layout: post
 title: HACHI-オリ-Deep Sleep Sheep
 date: 2023-06-09 19:30:00 +0900
-category: [Vutuber, HACHI]
+category: [VTuber, HACHI]
 tag: 
   - HACHI
   - オリジナル

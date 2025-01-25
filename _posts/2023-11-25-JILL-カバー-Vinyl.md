@@ -2,7 +2,7 @@
 layout: post
 title: JILL-カバー-Vinyl
 date: 2023-11-25 20:15:34 +0900
-category: [Vutuber, 蜜乃木ジル]
+category: [VTuber, 蜜乃木ジル]
 tag: 
   - 蜜乃木ジル
   - cover
