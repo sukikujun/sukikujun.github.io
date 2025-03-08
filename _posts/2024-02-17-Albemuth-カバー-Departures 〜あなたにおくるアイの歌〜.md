@@ -2,7 +2,7 @@
 layout: post
 title: Albemuth-カバー-Departures 〜あなたにおくるアイの歌〜
 date: 2024-02-17 19:30:00 +0900
-category: [Vutuber, Albemuth]
+category: [VTuber, Albemuth]
 tag: 
   - Albemuth
   - cover

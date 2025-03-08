@@ -2,7 +2,7 @@
 layout: post
 title: MINA-オリ-ダンシング☆PONPON
 date: 2024-02-14 00:00:00 +0900
-category: [Vutuber, 桜鳥ミーナ]
+category: [VTuber, 桜鳥ミーナ]
 tag: 
   - 桜鳥ミーナ
   - オリジナル
