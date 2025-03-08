@@ -2,12 +2,6 @@
 
 source "https://rubygems.org"
 
-group :test do
-  gem "html-proofer", "~> 4.4"
-end
-
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
 gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
 gem "html-proofer", "~> 5.0", group: :test
@@ -17,10 +11,4 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
-
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
-# do not have a Java counterpart.
-gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
