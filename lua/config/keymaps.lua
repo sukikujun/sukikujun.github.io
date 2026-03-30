@@ -2,11 +2,20 @@
 -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
 -- Add any additional keymaps here
 
-local map = LazyVim.safe_keymap_set
+-- local map = LazyVim.safe_keymap_set
 
 -- jj, jk map Esc
--- map("i", "jj", "<Esc>", { desc = "Exit Insert Mode" })
--- map("i", "jk", "<Esc>", { desc = "Exit Insert Mode" })
+-- vim.api.nvim_set_keymap("i", "jj", "<Esc>", { noremap = true, silent = true })
+-- vim.api.nvim_set_keymap("i", "jk", "<Esc>", { noremap = true, silent = true })
+vim.keymap.set("i", "jk", "<Esc>", { noremap = true, silent = true })
+
+vim.keymap.set("n", "<C-z>", "u", { noremap = true, silent = true })
+vim.keymap.set("i", "<C-z>", "<C-o>u", { noremap = true, silent = true })
+
+vim.keymap.set("v", "<C-c>", "y`]", { noremap = true, silent = true })
+
+vim.keymap.set("n", "<C-v>", "p`]", { noremap = true, silent = true })
+vim.keymap.set("i", "<C-v>", "<C-o>p`]", { noremap = true, silent = true })
 
 -- better up/down
 -- map({ "n", "x" }, "j", "v:count == 0 ? 'gj' : 'j'", { desc = "Down", expr = true, silent = true })
