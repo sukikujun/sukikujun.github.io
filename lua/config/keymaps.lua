@@ -5,8 +5,8 @@
 local map = LazyVim.safe_keymap_set
 
 -- jj, jk map Esc
-map("i", "jj", "<Esc>", { desc = "Exit Insert Mode" })
-map("i", "jk", "<Esc>", { desc = "Exit Insert Mode" })
+-- map("i", "jj", "<Esc>", { desc = "Exit Insert Mode" })
+-- map("i", "jk", "<Esc>", { desc = "Exit Insert Mode" })
 
 -- better up/down
 -- map({ "n", "x" }, "j", "v:count == 0 ? 'gj' : 'j'", { desc = "Down", expr = true, silent = true })
