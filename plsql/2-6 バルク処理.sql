@@ -1,0 +1,76 @@
+
+--- バルクインサートに使う表定義
+
+CREATE TABLE USER_MASTER_COPY AS SELECT * FROM USER_MASTER WHERE 1 = 0;
+ALTER TABLE USER_MASTER_COPY ADD PRIMARY KEY(USER_ID);
+
+-- BULK INSERT FOR ALL
+CREATE OR REPLACE PROCEDURE BULK_FETCH_INSERT2
+IS
+  BULK_SIZE CONSTANT PLS_INTEGER := 4;
+
+  cursor cIdName IS
+    SELECT * FROM USER_MASTER ORDER BY 1;
+  TYPE tIDNAMES IS TABLE OF cIdName%ROWTYPE INDEX BY BINARY_INTEGER;
+  -- ↑ カーソル定義によるレコード型のコレクション(結合配列)
+
+  vIDName tIDNAMES;
+
+  -- エラーハンドラ用 ORA-24381: DML 配列にエラーがあります
+  vBulkErrors PLS_INTEGER := 0;
+  eBulkProcessNotComplete EXCEPTION;
+  PRAGMA EXCEPTION_INIT(eBulkProcessNotComplete, -24381);
+BEGIN
+
+  OPEN cIdName;
+  LOOP
+    FETCH cIdName BULK COLLECT INTO vIDName LIMIT BULK_SIZE;
+    -- BULK FETCH 処理
+    EXIT WHEN vIDName.COUNT = 0;
+    DBMS_OUTPUT.PUT_LINE('バルクインサート対象件数: ' || vIDName.COUNT);
+    BEGIN
+      -- BULK INSERT 処理
+      FORALL i in 1..vIDName.COUNT SAVE EXCEPTIONS -- ← エラーが発生しても継続
+        INSERT INTO USER_MASTER_COPY VALUES vIDName(i);
+        -- ↑ Oracle 9i から使用できる記述
+      COMMIT;
+    EXCEPTION
+      WHEN eBulkProcessNotComplete THEN
+        vBulkErrors := vBulkErrors + SQL%BULK_EXCEPTIONS.COUNT;
+        -- PROC_BULK_ERROR_HANDLER
+    END;
+  END LOOP;
+  DBMS_OUTPUT.PUT_LINE('処理件数:' || cIdName%ROWCOUNT);
+  DBMS_OUTPUT.PUT_LINE('エラー数:' || vBulkErrors);
+  CLOSE cIdName;
+END;
+/
+
+call BULK_FETCH_INSERT2();
+
+-- ブルクフェッチ fetch bulk collect
+CREATE OR REPLACE PROCEDURE BULK_FETCH
+IS
+  BULK_SIZE CONSTANT PLS_INTEGER := 4;
+
+  CURSOR cIdName IS
+    SELECT USER_ID, USER_NAME FROM USER_MASTER ORDER BY USER_ID DESC;
+  TYPE tIDNAMES IS TABLE OF cIdName%ROWTYPE INDEX BY BINARY_INTEGER;
+
+  vIDName tIDNAMES;
+BEGIN
+  OPEN cIdName;
+  LOOP
+    FETCH cIdName BULK COLLECT INTO vIDName LIMIT BULK_SIZE;
+    EXIT WHEN vIDName.COUNT = 0;
+    DBMS_OUTPUT.PUT_LINE('フェッチ数: ' || vIDName.COUNT);
+    FOR i IN 1..vIDName.COUNT LOOP
+      DBMS_OUTPUT.PUT_LINE(vIDName(i).USER_ID || ':' || vIDName(i).USER_NAME);
+    END LOOP;
+  END LOOP;
+  DBMS_OUTPUT.PUT_LINE('合計フェッチ数: ' || cIdName%ROWCOUNT);
+  CLOSE cIdName;
+END;
+/
+
+call bulk_fetch();

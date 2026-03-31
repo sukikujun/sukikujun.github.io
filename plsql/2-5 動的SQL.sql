@@ -1,0 +1,80 @@
+
+---
+CREATE OR REPLACE PROCEDURE STEP01_EXEC_PUTLINE
+IS
+BEGIN
+  EXECUTE IMMEDIATE q'[CALL DBMS_OUTPUT.PUT_LINE('有意義な使い方をしていますか？')]';
+  EXECUTE IMMEDIATE q'[BEGIN DBMS_OUTPUT.PUT_LINE('いいえ、していません。'); END;]';
+END;
+/
+
+call STEP01_EXEC_PUTLINE();
+
+-- 単一 SQL 文におけるプレースホルダとバインド変数
+CREATE OR REPLACE PROCEDURE STEP01_EXEC_SQL
+IS
+  vID VARCHAR2(4);
+  vName VARCHAR2(32);
+  vSQL VARCHAR2(1000);
+BEGIN
+  vID := '0001';
+  vName := NULL;
+
+  vSQL := '';
+  vSQL := vSQL || 'INSERT INTO USER_MASTER ( USER_ID, USER_NAME )';
+  vSQL := vSQL || ' VALUES ( :1, :2 )';
+  DBMS_OUTPUT.PUT_LINE('SQL=' || vSQL);
+
+  EXECUTE IMMEDIATE vSQL USING IN vID, vName;
+  DBMS_OUTPUT.PUT_LINE('インサートした件数は' || SQL%ROWCOUNT || '件です。');
+  COMMIT;
+END;
+/
+
+call STEP01_EXEC_SQL();
+
+-- PL/SQL ブロックにおけるプレースホルダとバインド変数
+CREATE OR REPLACE PROCEDURE STEP01_EXEC_SQL2(
+  P_ID VARCHAR2,
+  P_NAME VARCHAR2,
+  P_DEPT VARCHAR2
+)
+IS
+  vID VARCHAR2(4);
+  vDept VARCHAR2(4);
+  vName VARCHAR2(32);
+  vSQL VARCHAR2(1000);
+BEGIN
+  vID := P_ID;
+  vDept := P_DEPT;
+  vName := P_NAME;
+
+  vSQL := '';
+  vSQL := vSQL || 'INSERT INTO USER_MASTER ( USER_ID, DEPT_NO, USER_NAME )';
+  vSQL := vSQL || ' VALUES ( :ID, :DEPT, :NAME )';
+  -- プレースホルダ名は Oracle には価値が無いがメンテのときに内容を理解するために役立つ
+  DBMS_OUTPUT.PUT_LINE('SQL=' || vSQL);
+
+  EXECUTE IMMEDIATE vSQL USING IN vID, vDept, vName;
+  DBMS_OUTPUT.PUT_LINE('インサートした件数は' || SQL%ROWCOUNT || '件です。');
+  COMMIT;
+  DBMS_OUTPUT.PUT_LINE('USER_ID は[' || vID || ']');
+  DBMS_OUTPUT.PUT_LINE('DEPT_NO は[' || vDept || ']');
+  DBMS_OUTPUT.PUT_LINE('USER_NAME は[' || vName || ']');
+END;
+/
+
+call STEP01_EXEC_SQL2('1001', '稲守サクヤ', '1000');
+
+create or replace procedure STEP01_EXEC_PLSQLBLOCK
+IS
+  v1 VARCHAR2(4);
+  v2 VARCHAR2(32);
+BEGIN
+  v1 := '9999';
+  v2 := 'ななし';
+  EXECUTE IMMEDIATE q'[BEGIN STEP01_EXEC_SQL2(:xxx, :yyy, :xxx); END;]' USING IN v1, v2;
+END;
+/
+
+call STEP01_EXEC_PLSQLBLOCK();
