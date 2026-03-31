@@ -26,3 +26,7 @@
 
 1. [Installation](https://www.lazyvim.org/installation)
 
+### lazygit
+
+1. [v0.57.0](https://github.com/jesseduffield/lazygit/releases/tag/v0.57.0) をダウンロードし、環境変数 PATH に追加
+
