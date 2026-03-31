@@ -92,3 +92,33 @@ end;
 /
 
 call step02_insert();
+
+--- DDL の実行
+
+-- PL/SQLのブロック内でDDL文（TRUNCATE, CREATE, DROPなど）を直接書くことができない
+create or replace procedure DDL_TRUNCATE_NG
+is
+begin
+  truncate table user_master;
+end;
+/
+
+call DDL_TRUNCATE_NG();
+
+create or replace procedure DDL_TRUNCATE
+is
+  vUserID USER_MASTER.USER_ID%TYPE;
+  vUserName USER_MASTER.USER_NAME%TYPE;
+begin
+  execute immediate 'truncate table user_master';
+  INSERT INTO user_master (
+    USER_ID, dept_no, USER_NAME
+  ) VALUES ( '0022', '1001', '安倍 晋二' );
+
+  SELECT USER_ID, USER_NAME INTO vUserID, vUserName FROM user_master;
+  dbms_output.put_line('利用者IDは' || vUserID || 'です。');
+  dbms_output.put_line('利用者名は' || vUserName || 'さんです。');
+end;
+/
+
+call DDL_TRUNCATE();
