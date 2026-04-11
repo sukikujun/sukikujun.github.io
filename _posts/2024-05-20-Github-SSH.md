@@ -7,14 +7,13 @@ tag:
   - SSH
 ---
 
-# {{ page.title }}
-
 ## 既存の SSH キーの確認
 
 > ls -al ~/.ssh を入力して、既存の SSH キーが存在するかどうかを確認します。
 
 ```bash
 $ ls -la ~/.ssh
+-rw-r--r--   1 lixun  staff   101 Apr 11 11:48 id_ed25519.pub
 ```
 
 > ディレクトリの一覧から、公開 SSH キーをすでに持っているか確認します。 既定では、GitHub でサポートされている公開鍵のファイル名は次のいずれかです。
@@ -29,6 +28,7 @@ $ ls -la ~/.ssh
 
 ```bash
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
+# ~/.ssh/id_ed25519.pub が生成された
 ```
 
 ## アカウントへの新しい SSH キーの追加
@@ -37,7 +37,9 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ```bash
 $ clip < ~/.ssh/id_ed25519.pub
+# ssh-ed25519 ... kikusujun@gmail.com
 ```
+
 Mac：`clip` を `pbcopy` に変える
 
 > Github Add SSH key
@@ -46,7 +48,7 @@ Mac：`clip` を `pbcopy` に変える
 
 ## Proxy が設定した場合、config を以下の設定にします
 
-```
+```text
 PS C:\Users\NC> cat .\.ssh\config
 # Read more about SSH config files: https://linux.die.net/man/5/ssh_config
 Host *
