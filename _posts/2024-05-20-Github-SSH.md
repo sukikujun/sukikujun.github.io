@@ -38,6 +38,7 @@ $ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```bash
 $ clip < ~/.ssh/id_ed25519.pub
 ```
+Mac：`clip` を `pbcopy` に変える
 
 > Github Add SSH key
 
