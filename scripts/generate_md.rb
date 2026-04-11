@@ -46,11 +46,10 @@ def generate_markdown(title, date, category, tags)
   title: #{title}
   date: #{date.strftime('%Y-%m-%d %H:%M:%S %z')}
   category: [#{category.join(', ')}]
-  tag: 
+  tag:
   #{tags.map { |t| "  - #{t}" }.join("\n")}
   ---
 
-  ## {{ page.title }}
   MD
 end
 
